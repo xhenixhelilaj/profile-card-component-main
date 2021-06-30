@@ -1,0 +1,7 @@
+
+body{
+	background-image: url('./images/bg-pattern-top.svg'), 
+    url('./images/bg-pattern-bottom.svg');
+	background-position: right 53vw bottom 35vh, 48vw 50vh;
+	background-repeat: no-repeat;
+}
